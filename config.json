@@ -1,0 +1,11 @@
+{
+	"prefix": "*",
+    "token": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    "request": {
+        "headers":{
+            "x-rapidapi-host": "coronavirus-monitor.p.rapidapi.com",
+            "x-rapidapi-key": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+        },
+        "URL": "https://coronavirus-monitor.p.rapidapi.com/coronavirus/cases_by_country.php"
+    }
+}

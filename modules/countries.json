@@ -1,0 +1,49 @@
+{   
+    "chine": {
+    "id": 0,
+    "code": "cn"
+    },
+    "italie": {
+        "id": 1,
+        "code": "it"
+    },
+    "iran": {
+        "id": 2,
+        "code": "ir"
+    },
+    "espagne": {
+        "id": 3,
+        "code": "es"
+    },
+    "corée": {
+        "id": 4,
+        "code": "kr",
+        "fullname":"Corée du Sud"
+    },
+    "allemagne": {
+        "id": 5,
+        "code": "de"
+    },
+    "france": {
+        "id": 6,
+        "code": "fr"
+    },
+    "usa": {
+        "fullname": "Etats-Unis",
+        "id": 7,
+        "code" : "us"
+    },
+    "suisse": {
+        "id": 8,
+        "code" : "ch"
+    },
+    "uk": {
+        "id": 9,
+        "code": "gb",
+        "fullname": "Grande-Bretagne"
+    },
+    "tunisie": {
+        "id": 85,
+        "code": "tn"
+    }
+}
